@@ -10,14 +10,13 @@
 - [Requirements & Deliverables](#requirements-&-deliverables)
 - [Mentoring](#mentoring)
 - [Schedule](#schedule)
-- [Presentation](#presentation)
 - [Tips & Tricks](#tips-&-tricks)
 - [Resources](#resources)
 
 ## Project Description
 The objective of this project is choosing a topic that interests you, finding related data, completing an end-to-end analysis and presenting your findings all by yourself. Understand what research has already been done in that area and find questions that are still unanswered. Then, look for data that you think could help you answer those questions and analyze it using visualizations to support your reasoning. Finally, present your result in a presentation and a technical paper.
 
-When choosing your topic remember that this project allows you to use **data from your colleagues' past projects, BUT NOT YOURS!**
+
 
 ## Project Goals
 During this project you will:
@@ -87,9 +86,6 @@ Your mentor is **not** meant to:
 * Final improvements!
 * Presentations time **at 15:00**!
 
-## Presentation  
-Projects will be presented to UX/UI students! Presentations will be **EXACTLY** 4 minutes long, with 2 additional minutes for questions. We will stop you at 4 minutes so make sure to rehearse your presentation to avoid exceeding the time limit!  
-The audience will evaluate the presentation by indicating how well they understood what you were trying to explain and how you presented it. This information will help you in further presentations!
 
 ## Tips & Tricks
 * Organize your work (don't get lost!).
