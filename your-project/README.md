@@ -25,6 +25,7 @@ My goal for this project was to find interesting ways to visualize the affects a
 
 ## Dataset
 Dataset source: https://github.com/owid/covid-19-data/tree/master/public/data
+
 This data has been collected, aggregated, and documented by Our World in Data.
 
 ## Workflow
