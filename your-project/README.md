@@ -1,9 +1,8 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Visualizing COVID-19
 
-*[Your Cohort, Campus & Date]*
+Lisa Saunders - DAFT REM MAR2021
 
 ## Content
 - [Project Description](#project-description)
@@ -14,25 +13,32 @@
 - [Links](#links)
 
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
+This project is an explanatory data analysis using the Our World in Data dataset. The dataset updates daily and offers data on
+confirmed cases, deaths, hospitalizations, testing, and vaccinations, for the whole period of the pandemic.
+My goal for this project was to find interesting ways to visualize the affects and the development of COVID-19 on the world.
 
 ## Questions & Hypotheses
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
+What is the overall trend of COVID-19 cases?
+Who is most heavily affected (country/region)?
+Which months have higher COVID-19 occurences?
+Can higher COVID-19 occurences and deaths be explained by other variables (such as poverty or GDP)?
 
 ## Dataset
-What dataset (or datasets) did you use? What are the different sources you used (e.g. APIs, web scrapping, etc.)? Provide links to the data if available and describe the data briefly.
+Dataset source: https://github.com/owid/covid-19-data/tree/master/public/data
+This data has been collected, aggregated, and documented by Our World in Data.
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+Brainstorming topics that would interest me and search for datasets online. Make rough outline of questions that could be interesting
+to showcase and analyze the dataset and how it is built. Start by cleaning dataset, what columns are relevant for this analysis?
+How should the Nullvalues be handled?
+Start with plotting broad data and go more in depth along the process. What variables could have a relationship with the COVID-19 
+occurances? Test this hypothesis.
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
-
-What does your repository look like? Explain your folder and file structure.
+I used a trelloboard to keep track of my tasks.
+(edit Folder structure explenation)
 
 ## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
-
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/lisasaundersgit/Project-Week-5-Your-Own-Project.git)
+[Slides](https://www.canva.com/design/DAEc3sPKSRE/ZCK_Fhmj8hqY0Vupo1wQXA/view?utm_content=DAEc3sPKSRE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)  
+[Trello](https://trello.com/b/bB0ZuBks)  
