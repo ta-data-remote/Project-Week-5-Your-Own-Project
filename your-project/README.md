@@ -29,7 +29,7 @@ Dataset source: https://github.com/owid/covid-19-data/tree/master/public/data
 This data has been collected, aggregated, and documented by Our World in Data.
 
 ## Workflow
-Brainstorming topics that would interest me and search for datasets online. Make rough outline of questions that could be interesting
+Brainstorming topics that would be interesting and searching for datasets online. Making a rough outline of questions that could be interesting
 to showcase and analyze the dataset and how it is built. Start by cleaning dataset, what columns are relevant for this analysis?
 How should missing values be handled?
 Start with plotting broad data and go more in depth along the process. What variables could have a relationship with the COVID-19 
