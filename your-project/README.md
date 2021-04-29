@@ -37,7 +37,6 @@ occurances? Test this hypothesis.
 
 ## Organization
 I used a trelloboard to keep track of my tasks.
-(edit Folder structure explenation)
 
 ## Links
 - [Repository](https://github.com/lisasaundersgit/Project-Week-5-Your-Own-Project.git)
