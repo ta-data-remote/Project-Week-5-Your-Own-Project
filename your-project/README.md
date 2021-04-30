@@ -44,6 +44,9 @@ I've also used a Trello board to organise my work during the process.
 Links to my GitHub repository, Canva presentation, Techincal Paper and Trello Board:
 
 [Repository](https://github.com/JoseMtnz/Project-Week-5-Your-Own-Project/)  
+
 [Slides](https://www.canva.com/design/DAEcwaxYEZw/AdvA2zsq_e236iNiUJeMEA/view?utm_content=DAEcwaxYEZw&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)  
+
 [Technical Paper](https://docs.google.com/document/d/1n722SdMDQxx57ERlNvsjLQWMseAmaFqzc_aQCzxFwAU/edit?usp=sharing)
+
 [Trello](https://trello.com/b/pan8cN81/happinnes-in-the-world)  
