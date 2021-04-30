@@ -40,5 +40,5 @@ I used a trelloboard to keep track of my tasks.
 
 ## Links
 - [Repository](https://github.com/lisasaundersgit/Project-Week-5-Your-Own-Project.git)
-- [Slides](https://www.canva.com/design/DAEc3sPKSRE/ZCK_Fhmj8hqY0Vupo1wQXA/view?utm_content=DAEc3sPKSRE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)  
+- [Slides](https://drive.google.com/file/d/166bG-niWNPRCj1nJxFUa-DLM7KM0wMxD/view?usp=sharing)  
 - [Trello](https://trello.com/b/bB0ZuBks)  
