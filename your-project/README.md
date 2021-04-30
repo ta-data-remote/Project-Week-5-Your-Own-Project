@@ -47,6 +47,6 @@ I used the KickOff file of the project
 
 ## Links
 
-[Repository](https://github.com/)  
+[Repository](https://github.com/tminkova/Project-Week-5-Your-Own-Project)  
 [Slides](https://www.canva.com/design/DAEdCCzqy7Y/TA9FsRJdoi6l9xox8cjgcA/watch?utm_content=DAEdCCzqy7Y&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)  
  
