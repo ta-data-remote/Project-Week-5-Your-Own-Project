@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Happiness in the world
+*[Jose Martinez]*
 
-*[Your Cohort, Campus & Date]*
+*[Data Analytics Bootcamp MAR 21]*
 
 ## Content
 - [Project Description](#project-description)
@@ -14,25 +14,36 @@
 - [Links](#links)
 
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
+The objective of this project is working on a database of our chose, answering questions and finding some insights, completing an end-to-end analysis that we will present to the audience using data visualization. choosing a topic of interest, finding related data, completing an end-to-end analysis and presenting your findings all by yourself. Understand what research has already been done in that area and find questions that are still unanswered. Then, look for data that you think could help you answer those questions and analyze it using visualizations to support your reasoning. Finally, present your result in a presentation and a technical paper.
+doing an end-to-end analysys for a topic of our chose. In my case, I've chosen the 'Happiness in the world'as I would like to show a topic could be interesting and induce to the reflection. "Can we measure happiness?choosing a topic that interests you, finding related data, completing an end-to-end analysis and presenting your findings all by yourself. Understand what research has already been done in that area and find questions that are still unanswered. Then, look for data that you think could help you answer those questions and analyze it using visualizations to support your reasoning. Finally, present your result in a presentation and a technical paper.
 
 ## Questions & Hypotheses
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
+The purpose of my study is trying to answer the following question: 'Can we measure happiness?'. During my way, I will try to answer other questions such as ‘which are the happiest countries in the world? 
+My initial hypothesis is the rich countries are not necesarily the happiest ones.
 
 ## Dataset
-What dataset (or datasets) did you use? What are the different sources you used (e.g. APIs, web scrapping, etc.)? Provide links to the data if available and describe the data briefly.
+I've used the following sources for gathering the needed datasets:
+[World Development Indicators, Data Bank](https://databank.worldbank.org/source/world-development-indicators#)  
+[The World Happiness Report](https://www.kaggle.com/PromptCloudHQ/world-happiness-report-2019)  
+[World Health Organization Suicide Database](https://www.who.int/teams/mental-health-and-substance-use/suicide-data)
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+The workflow was as follows:
+ - Choosing a topic of interest
+ - Finding the question we would like to answer
+ - Gathering related data
+ - Exploring the databases and cleaning data
+ - Plotting and making visualizations
+ - Preparing slides and technical paper
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
-
-What does your repository look like? Explain your folder and file structure.
+In the repository you will the Jupyter notebooks used for cleaning and wrangling data and polotting, the folder with the used datasets, somo images and charts generated during the process of doing this study. 
+I've used a Trello board to organise my work during the process.
 
 ## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
+Links to my GitHub repository, Canva presentation, Techincal Paper and Trello Board:
 
 [Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Slides](https://www.canva.com/design/DAEcwaxYEZw/AdvA2zsq_e236iNiUJeMEA/view?utm_content=DAEcwaxYEZw&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)  
+[Technical Paper](https://docs.google.com/document/d/1n722SdMDQxx57ERlNvsjLQWMseAmaFqzc_aQCzxFwAU/edit?usp=sharing)
+[Trello](https://trello.com/b/pan8cN81/happinnes-in-the-world)  

@@ -1,0 +1,167 @@
+﻿Series Name,Series Code,Country Name,Country Code,2019 [YR2019]
+Capital health expenditure (% of GDP),SH.XPD.KHEX.GD.ZS,United States,USA,..
+Capital health expenditure (% of GDP),SH.XPD.KHEX.GD.ZS,United Kingdom,GBR,..
+Capital health expenditure (% of GDP),SH.XPD.KHEX.GD.ZS,Spain,ESP,..
+Capital health expenditure (% of GDP),SH.XPD.KHEX.GD.ZS,South Africa,ZAF,..
+Capital health expenditure (% of GDP),SH.XPD.KHEX.GD.ZS,Japan,JPN,..
+Capital health expenditure (% of GDP),SH.XPD.KHEX.GD.ZS,Brazil,BRA,..
+Capital health expenditure (% of GDP),SH.XPD.KHEX.GD.ZS,Australia,AUS,..
+"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",SH.DTH.COMM.ZS,United States,USA,5.3020598009239
+"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",SH.DTH.COMM.ZS,United Kingdom,GBR,8.1567751410004
+"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",SH.DTH.COMM.ZS,Spain,ESP,5.61044466480471
+"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",SH.DTH.COMM.ZS,South Africa,ZAF,35.6803578327848
+"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",SH.DTH.COMM.ZS,Japan,JPN,10.2966193961317
+"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",SH.DTH.COMM.ZS,Brazil,BRA,13.7086408761723
+"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",SH.DTH.COMM.ZS,Australia,AUS,4.94105432186094
+"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,United States,USA,6.55296093578568
+"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,United Kingdom,GBR,3.68614740758269
+"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,Spain,ESP,3.62210162451938
+"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,South Africa,ZAF,12.9895858197131
+"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,Japan,JPN,4.91285957647839
+"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,Brazil,BRA,11.5536597805284
+"Cause of death, by injury (% of total)",SH.DTH.INJR.ZS,Australia,AUS,5.94459221316378
+"Cause of death, by non-communicable diseases (% of total)",SH.DTH.NCOM.ZS,United States,USA,88.1449804799197
+"Cause of death, by non-communicable diseases (% of total)",SH.DTH.NCOM.ZS,United Kingdom,GBR,88.1570765293416
+"Cause of death, by non-communicable diseases (% of total)",SH.DTH.NCOM.ZS,Spain,ESP,90.7674536252155
+"Cause of death, by non-communicable diseases (% of total)",SH.DTH.NCOM.ZS,South Africa,ZAF,51.3300565987341
+"Cause of death, by non-communicable diseases (% of total)",SH.DTH.NCOM.ZS,Japan,JPN,84.7905248056048
+"Cause of death, by non-communicable diseases (% of total)",SH.DTH.NCOM.ZS,Brazil,BRA,74.7376983511031
+"Cause of death, by non-communicable diseases (% of total)",SH.DTH.NCOM.ZS,Australia,AUS,89.1143536670652
+"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,United States,USA,78.7878048780488
+"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,United Kingdom,GBR,81.2048780487805
+"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,Spain,ESP,83.4853658536585
+"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,South Africa,ZAF,64.131
+"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,Japan,JPN,84.3563414634146
+"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,Brazil,BRA,75.881
+"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,Australia,AUS,82.9
+"Population, female",SP.POP.TOTL.FE.IN,United States,USA,165821641
+"Population, female",SP.POP.TOTL.FE.IN,United Kingdom,GBR,33827559
+"Population, female",SP.POP.TOTL.FE.IN,Spain,ESP,23977965
+"Population, female",SP.POP.TOTL.FE.IN,South Africa,ZAF,29698965
+"Population, female",SP.POP.TOTL.FE.IN,Japan,JPN,64605360
+"Population, female",SP.POP.TOTL.FE.IN,Brazil,BRA,107316363
+"Population, female",SP.POP.TOTL.FE.IN,Australia,AUS,12733486
+Population growth (annual %),SP.POP.GROW,United States,USA,0.473953539373292
+Population growth (annual %),SP.POP.GROW,United Kingdom,GBR,0.564131113399897
+Population growth (annual %),SP.POP.GROW,Spain,ESP,0.714923607990018
+Population growth (annual %),SP.POP.GROW,South Africa,ZAF,1.31629200967216
+Population growth (annual %),SP.POP.GROW,Japan,JPN,-0.208999472902293
+Population growth (annual %),SP.POP.GROW,Brazil,BRA,0.75154842651724
+Population growth (annual %),SP.POP.GROW,Australia,AUS,1.52165367749095
+"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,United States,USA,50.5184872077992
+"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,United Kingdom,GBR,50.6125344496069
+"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,Spain,ESP,50.8724242075546
+"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,South Africa,ZAF,50.7169465926989
+"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,Japan,JPN,51.1665111241776
+"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,Brazil,BRA,50.8489000631174
+"Population, female (% of total population)",SP.POP.TOTL.FE.ZS,Australia,AUS,50.1995341861351
+"Population, male",SP.POP.TOTL.MA.IN,United States,USA,162417882
+"Population, male",SP.POP.TOTL.MA.IN,United Kingdom,GBR,33008768
+"Population, male",SP.POP.TOTL.MA.IN,Spain,ESP,23155556
+"Population, male",SP.POP.TOTL.MA.IN,South Africa,ZAF,28859302
+"Population, male",SP.POP.TOTL.MA.IN,Japan,JPN,61659571
+"Population, male",SP.POP.TOTL.MA.IN,Brazil,BRA,103733164
+"Population, male",SP.POP.TOTL.MA.IN,Australia,AUS,12632259
+"Population, total",SP.POP.TOTL,United States,USA,328239523
+"Population, total",SP.POP.TOTL,United Kingdom,GBR,66836327
+"Population, total",SP.POP.TOTL,Spain,ESP,47133521
+"Population, total",SP.POP.TOTL,South Africa,ZAF,58558267
+"Population, total",SP.POP.TOTL,Japan,JPN,126264931
+"Population, total",SP.POP.TOTL,Brazil,BRA,211049527
+"Population, total",SP.POP.TOTL,Australia,AUS,25365745
+"Population, male (% of total population)",SP.POP.TOTL.MA.ZS,United States,USA,49.4815127922008
+"Population, male (% of total population)",SP.POP.TOTL.MA.ZS,United Kingdom,GBR,49.3874655503931
+"Population, male (% of total population)",SP.POP.TOTL.MA.ZS,Spain,ESP,49.1275757924454
+"Population, male (% of total population)",SP.POP.TOTL.MA.ZS,South Africa,ZAF,49.2830534073011
+"Population, male (% of total population)",SP.POP.TOTL.MA.ZS,Japan,JPN,48.8334888758224
+"Population, male (% of total population)",SP.POP.TOTL.MA.ZS,Brazil,BRA,49.1510999368826
+"Population, male (% of total population)",SP.POP.TOTL.MA.ZS,Australia,AUS,49.8004658138649
+"Survival to age 65, male (% of cohort)",SP.DYN.TO65.MA.ZS,United States,USA,79.9172602
+"Survival to age 65, male (% of cohort)",SP.DYN.TO65.MA.ZS,United Kingdom,GBR,87.4074912
+"Survival to age 65, male (% of cohort)",SP.DYN.TO65.MA.ZS,Spain,ESP,88.36288
+"Survival to age 65, male (% of cohort)",SP.DYN.TO65.MA.ZS,South Africa,ZAF,50.8212868
+"Survival to age 65, male (% of cohort)",SP.DYN.TO65.MA.ZS,Japan,JPN,89.3681474
+"Survival to age 65, male (% of cohort)",SP.DYN.TO65.MA.ZS,Brazil,BRA,73.5821026
+"Survival to age 65, male (% of cohort)",SP.DYN.TO65.MA.ZS,Australia,AUS,89.6923988
+"Survival to age 65, female (% of cohort)",SP.DYN.TO65.FE.ZS,United States,USA,87.6139056
+"Survival to age 65, female (% of cohort)",SP.DYN.TO65.FE.ZS,United Kingdom,GBR,91.4264156
+"Survival to age 65, female (% of cohort)",SP.DYN.TO65.FE.ZS,Spain,ESP,94.5245276
+"Survival to age 65, female (% of cohort)",SP.DYN.TO65.FE.ZS,South Africa,ZAF,66.9300934
+"Survival to age 65, female (% of cohort)",SP.DYN.TO65.FE.ZS,Japan,JPN,94.6180748
+"Survival to age 65, female (% of cohort)",SP.DYN.TO65.FE.ZS,Brazil,BRA,85.3709148
+"Survival to age 65, female (% of cohort)",SP.DYN.TO65.FE.ZS,Australia,AUS,93.6634986
+"Suicide mortality rate, male (per 100,000 male population)",SH.STA.SUIC.MA.P5,United States,USA,25
+"Suicide mortality rate, male (per 100,000 male population)",SH.STA.SUIC.MA.P5,United Kingdom,GBR,11.8
+"Suicide mortality rate, male (per 100,000 male population)",SH.STA.SUIC.MA.P5,Spain,ESP,11.4
+"Suicide mortality rate, male (per 100,000 male population)",SH.STA.SUIC.MA.P5,South Africa,ZAF,37.6
+"Suicide mortality rate, male (per 100,000 male population)",SH.STA.SUIC.MA.P5,Japan,JPN,21.8
+"Suicide mortality rate, male (per 100,000 male population)",SH.STA.SUIC.MA.P5,Brazil,BRA,10.9
+"Suicide mortality rate, male (per 100,000 male population)",SH.STA.SUIC.MA.P5,Australia,AUS,18.6
+"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,United States,USA,16.1
+"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,United Kingdom,GBR,7.9
+"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,Spain,ESP,7.7
+"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,South Africa,ZAF,23.5
+"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,Japan,JPN,15.3
+"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,Brazil,BRA,6.9
+"Suicide mortality rate (per 100,000 population)",SH.STA.SUIC.P5,Australia,AUS,12.5
+"Suicide mortality rate, female (per 100,000 female population)",SH.STA.SUIC.FE.P5,United States,USA,7.5
+"Suicide mortality rate, female (per 100,000 female population)",SH.STA.SUIC.FE.P5,United Kingdom,GBR,4
+"Suicide mortality rate, female (per 100,000 female population)",SH.STA.SUIC.FE.P5,Spain,ESP,4.2
+"Suicide mortality rate, female (per 100,000 female population)",SH.STA.SUIC.FE.P5,South Africa,ZAF,9.8
+"Suicide mortality rate, female (per 100,000 female population)",SH.STA.SUIC.FE.P5,Japan,JPN,9.2
+"Suicide mortality rate, female (per 100,000 female population)",SH.STA.SUIC.FE.P5,Brazil,BRA,3
+"Suicide mortality rate, female (per 100,000 female population)",SH.STA.SUIC.FE.P5,Australia,AUS,6.4
+Urban population,SP.URB.TOTL,United States,USA,270663028
+Urban population,SP.URB.TOTL,United Kingdom,GBR,55909924
+Urban population,SP.URB.TOTL,Spain,ESP,37973121
+Urban population,SP.URB.TOTL,South Africa,ZAF,39149715
+Urban population,SP.URB.TOTL,Japan,JPN,115782416
+Urban population,SP.URB.TOTL,Brazil,BRA,183241641
+Urban population,SP.URB.TOTL,Australia,AUS,21845994
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,United States,USA,1.705
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,United Kingdom,GBR,1.65
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Spain,ESP,1.24
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,South Africa,ZAF,2.381
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Japan,JPN,1.36
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Brazil,BRA,1.719
+"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,Australia,AUS,1.657
+"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,United States,USA,81.4
+"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,United Kingdom,GBR,83.1
+"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,Spain,ESP,86.2
+"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,South Africa,ZAF,67.679
+"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,Japan,JPN,87.45
+"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,Brazil,BRA,79.555
+"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,Australia,AUS,85
+"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,United States,USA,76.3
+"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,United Kingdom,GBR,79.4
+"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,Spain,ESP,80.9
+"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,South Africa,ZAF,60.726
+"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,Japan,JPN,81.41
+"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,Brazil,BRA,72.243
+"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,Australia,AUS,80.9
+"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,United States,USA,3.67000007629395
+"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,United Kingdom,GBR,3.74000000953674
+"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,Spain,ESP,14.1000003814697
+"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,South Africa,ZAF,28.4699993133545
+"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,Japan,JPN,2.40000009536743
+"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,Brazil,BRA,11.9300003051758
+"Unemployment, total (% of total labor force)",SL.UEM.TOTL.ZS,Australia,AUS,5.15999984741211
+"Unemployment, male (% of male labor force)",SL.UEM.TOTL.MA.ZS,United States,USA,3.72000002861023
+"Unemployment, male (% of male labor force)",SL.UEM.TOTL.MA.ZS,United Kingdom,GBR,3.92000007629395
+"Unemployment, male (% of male labor force)",SL.UEM.TOTL.MA.ZS,Spain,ESP,12.460000038147
+"Unemployment, male (% of male labor force)",SL.UEM.TOTL.MA.ZS,South Africa,ZAF,26.7800006866455
+"Unemployment, male (% of male labor force)",SL.UEM.TOTL.MA.ZS,Japan,JPN,2.53999996185303
+"Unemployment, male (% of male labor force)",SL.UEM.TOTL.MA.ZS,Brazil,BRA,10.1999998092651
+"Unemployment, male (% of male labor force)",SL.UEM.TOTL.MA.ZS,Australia,AUS,5.21000003814697
+"Unemployment, female (% of female labor force)",SL.UEM.TOTL.FE.ZS,United States,USA,3.60999989509583
+"Unemployment, female (% of female labor force)",SL.UEM.TOTL.FE.ZS,United Kingdom,GBR,3.52999997138977
+"Unemployment, female (% of female labor force)",SL.UEM.TOTL.FE.ZS,Spain,ESP,16.0100002288818
+"Unemployment, female (% of female labor force)",SL.UEM.TOTL.FE.ZS,South Africa,ZAF,30.5
+"Unemployment, female (% of female labor force)",SL.UEM.TOTL.FE.ZS,Japan,JPN,2.23000001907349
+"Unemployment, female (% of female labor force)",SL.UEM.TOTL.FE.ZS,Brazil,BRA,14.1400003433228
+"Unemployment, female (% of female labor force)",SL.UEM.TOTL.FE.ZS,Australia,AUS,5.1100001335144
+,,,,
+,,,,
+,,,,
+Data from database: Health Nutrition and Population Statistics,,,,
+Last Updated: 04/27/2021,,,,
