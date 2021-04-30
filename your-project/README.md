@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
+# Bike shop sales
 Tsvetelina Minkova
 
 Data Analytics, March 2021
