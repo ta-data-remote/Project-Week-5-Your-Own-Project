@@ -1,38 +1,39 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of My Project
-*[Your Name]*
+*Faisal Hammad*
 
-*[Your Cohort, Campus & Date]*
+*DAFT MAR-21*
 
 ## Content
 - [Project Description](#project-description)
 - [Questions & Hypotheses](#questions-hypotheses)
 - [Dataset](#dataset)
 - [Workflow](#workflow)
-- [Organization](#organization)
 - [Links](#links)
 
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
+This project revolves around the topics Learning, Lifestyle and Wellbeing. The main purpose of this study is to find how covid-19 affected those 3 aspects of our lives.
+
 
 ## Questions & Hypotheses
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
+How did people adapt to changes forced on us by covid lockdown measures? Was the lockdown an enabler for learning and lifestyle improvment? 
+
 
 ## Dataset
-What dataset (or datasets) did you use? What are the different sources you used (e.g. APIs, web scrapping, etc.)? Provide links to the data if available and describe the data briefly.
+Google Trends searches.
+Kaggle - https://www.kaggle.com/ydalat/lifestyle-and-wellbeing-data
+
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+- Planning search terms and researching lifestyle datasets
+- Data cleaning, and standardizing.
+- Plotting and analysing
+- Conclusion (into the presentation)
 
-## Organization
-How did you organize your work? Did you use any tools like a kanban board?
-
-What does your repository look like? Explain your folder and file structure.
 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/Faisal7ammad/Project-Week-5-Your-Own-Project)  
+[Slides](https://docs.google.com/presentation/d/1juYSrUKJwFO0TaT_U_Pq2UNGUY88oT8nrWzAuFg_SOI/edit?usp=sharing)  
