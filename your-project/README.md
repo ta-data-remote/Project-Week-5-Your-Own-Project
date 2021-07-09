@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Causes of death in the world (1990 - 2017) data analysis
+*[Ayub Pathan]*
 
-*[Your Cohort, Campus & Date]*
+*[Data Analytics, Remote & May 2021]*
 
 ## Content
 - [Project Description](#project-description)
@@ -14,25 +14,44 @@
 - [Links](#links)
 
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
+Several people died in last decades due to certain causes. This project was aimed to find out what were the causes of their deaths as well as relative finding with respect to supportive dataset of Age. Also, it was interesting to see which causes were dominant during 1990 to 2017 and their relative percentage change over 27 years.
+
 
 ## Questions & Hypotheses
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
+What are the major contributors?
+Other causes rather than major contributors
+Was age data relevant to major contributors?
+Suspicious data exploration with the help of map creation?
+Comparison between High SDI & Low SDI
+Relative change in causes over 27 years
+
 
 ## Dataset
-What dataset (or datasets) did you use? What are the different sources you used (e.g. APIs, web scrapping, etc.)? Provide links to the data if available and describe the data briefly.
+I used a open source datasets from the website:
+https://ourworldindata.org/
+Two different datasets were used for this project:
+Dataset 1: causes of deaths in the world
+Range: 1990 - 2017
+
+Dataset 2: causes of death by age
+Range: 1990  - 2017
+
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+Data reading
+Understanding
+Finding of nan values if any & their relevancy
+Data cleanin and sorting
+Filtering World data so that not to misinterpret whole dataset with world values
+Melting all filter datasets and saving them separately in the csv files
+Transferring all filtered data to tableau to visualise the results
+Making World Map to figure out special cases of conflicts and natural disasters
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
-
-What does your repository look like? Explain your folder and file structure.
+Through the proejct, I used trello board to organise my work
 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/ayubpathan2021/Project-Week-5-Your-Own-Project)  
+ [Trello](https://trello.com/b/aBUMKL7A/project-data-analysis-1)  

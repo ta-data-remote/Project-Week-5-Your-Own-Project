@@ -1,0 +1,197 @@
+,Year,variable,value
+0,1990,Entity,World
+1,1991,Entity,World
+2,1992,Entity,World
+3,1993,Entity,World
+4,1994,Entity,World
+5,1995,Entity,World
+6,1996,Entity,World
+7,1997,Entity,World
+8,1998,Entity,World
+9,1999,Entity,World
+10,2000,Entity,World
+11,2001,Entity,World
+12,2002,Entity,World
+13,2003,Entity,World
+14,2004,Entity,World
+15,2005,Entity,World
+16,2006,Entity,World
+17,2007,Entity,World
+18,2008,Entity,World
+19,2009,Entity,World
+20,2010,Entity,World
+21,2011,Entity,World
+22,2012,Entity,World
+23,2013,Entity,World
+24,2014,Entity,World
+25,2015,Entity,World
+26,2016,Entity,World
+27,2017,Entity,World
+28,1990,Code,OWID_WRL
+29,1991,Code,OWID_WRL
+30,1992,Code,OWID_WRL
+31,1993,Code,OWID_WRL
+32,1994,Code,OWID_WRL
+33,1995,Code,OWID_WRL
+34,1996,Code,OWID_WRL
+35,1997,Code,OWID_WRL
+36,1998,Code,OWID_WRL
+37,1999,Code,OWID_WRL
+38,2000,Code,OWID_WRL
+39,2001,Code,OWID_WRL
+40,2002,Code,OWID_WRL
+41,2003,Code,OWID_WRL
+42,2004,Code,OWID_WRL
+43,2005,Code,OWID_WRL
+44,2006,Code,OWID_WRL
+45,2007,Code,OWID_WRL
+46,2008,Code,OWID_WRL
+47,2009,Code,OWID_WRL
+48,2010,Code,OWID_WRL
+49,2011,Code,OWID_WRL
+50,2012,Code,OWID_WRL
+51,2013,Code,OWID_WRL
+52,2014,Code,OWID_WRL
+53,2015,Code,OWID_WRL
+54,2016,Code,OWID_WRL
+55,2017,Code,OWID_WRL
+56,1990,Deaths - All causes - Sex: Both - Age: Under 5 (Number),11770583.455492131
+57,1991,Deaths - All causes - Sex: Both - Age: Under 5 (Number),11605389.936601188
+58,1992,Deaths - All causes - Sex: Both - Age: Under 5 (Number),11366185.458760206
+59,1993,Deaths - All causes - Sex: Both - Age: Under 5 (Number),11152128.813405572
+60,1994,Deaths - All causes - Sex: Both - Age: Under 5 (Number),11008787.481492711
+61,1995,Deaths - All causes - Sex: Both - Age: Under 5 (Number),10758898.914060164
+62,1996,Deaths - All causes - Sex: Both - Age: Under 5 (Number),10529502.850882398
+63,1997,Deaths - All causes - Sex: Both - Age: Under 5 (Number),10331454.125072047
+64,1998,Deaths - All causes - Sex: Both - Age: Under 5 (Number),10133485.494580302
+65,1999,Deaths - All causes - Sex: Both - Age: Under 5 (Number),9914475.448613215
+66,2000,Deaths - All causes - Sex: Both - Age: Under 5 (Number),9680867.04812827
+67,2001,Deaths - All causes - Sex: Both - Age: Under 5 (Number),9419629.483208751
+68,2002,Deaths - All causes - Sex: Both - Age: Under 5 (Number),9168958.176711522
+69,2003,Deaths - All causes - Sex: Both - Age: Under 5 (Number),8896686.820964983
+70,2004,Deaths - All causes - Sex: Both - Age: Under 5 (Number),8654217.240373926
+71,2005,Deaths - All causes - Sex: Both - Age: Under 5 (Number),8382982.614664938
+72,2006,Deaths - All causes - Sex: Both - Age: Under 5 (Number),8116644.544374688
+73,2007,Deaths - All causes - Sex: Both - Age: Under 5 (Number),7854038.325492501
+74,2008,Deaths - All causes - Sex: Both - Age: Under 5 (Number),7615344.441233789
+75,2009,Deaths - All causes - Sex: Both - Age: Under 5 (Number),7354972.372119967
+76,2010,Deaths - All causes - Sex: Both - Age: Under 5 (Number),7144787.838141878
+77,2011,Deaths - All causes - Sex: Both - Age: Under 5 (Number),6890950.701644847
+78,2012,Deaths - All causes - Sex: Both - Age: Under 5 (Number),6652497.0398802
+79,2013,Deaths - All causes - Sex: Both - Age: Under 5 (Number),6405371.44908977
+80,2014,Deaths - All causes - Sex: Both - Age: Under 5 (Number),6170685.549580859
+81,2015,Deaths - All causes - Sex: Both - Age: Under 5 (Number),5917284.964794394
+82,2016,Deaths - All causes - Sex: Both - Age: Under 5 (Number),5632709.153250345
+83,2017,Deaths - All causes - Sex: Both - Age: Under 5 (Number),5391562.258603586
+84,1990,Deaths - All causes - Sex: Both - Age: 70+ years (Number),15553455.514249625
+85,1991,Deaths - All causes - Sex: Both - Age: 70+ years (Number),15897497.69029282
+86,1992,Deaths - All causes - Sex: Both - Age: 70+ years (Number),16219133.4352936
+87,1993,Deaths - All causes - Sex: Both - Age: 70+ years (Number),16675696.487358734
+88,1994,Deaths - All causes - Sex: Both - Age: 70+ years (Number),17013628.82951119
+89,1995,Deaths - All causes - Sex: Both - Age: 70+ years (Number),17331268.106894862
+90,1996,Deaths - All causes - Sex: Both - Age: 70+ years (Number),17585233.0673801
+91,1997,Deaths - All causes - Sex: Both - Age: 70+ years (Number),17940312.20927414
+92,1998,Deaths - All causes - Sex: Both - Age: 70+ years (Number),18362365.10422821
+93,1999,Deaths - All causes - Sex: Both - Age: 70+ years (Number),18785361.981783345
+94,2000,Deaths - All causes - Sex: Both - Age: 70+ years (Number),19172223.61716673
+95,2001,Deaths - All causes - Sex: Both - Age: 70+ years (Number),19574557.758293964
+96,2002,Deaths - All causes - Sex: Both - Age: 70+ years (Number),20071980.663596813
+97,2003,Deaths - All causes - Sex: Both - Age: 70+ years (Number),20538529.851569824
+98,2004,Deaths - All causes - Sex: Both - Age: 70+ years (Number),20693269.052118853
+99,2005,Deaths - All causes - Sex: Both - Age: 70+ years (Number),21060053.04775937
+100,2006,Deaths - All causes - Sex: Both - Age: 70+ years (Number),21228700.551838662
+101,2007,Deaths - All causes - Sex: Both - Age: 70+ years (Number),21618352.41161389
+102,2008,Deaths - All causes - Sex: Both - Age: 70+ years (Number),22255375.634846047
+103,2009,Deaths - All causes - Sex: Both - Age: 70+ years (Number),22829369.91204879
+104,2010,Deaths - All causes - Sex: Both - Age: 70+ years (Number),23482954.3181602
+105,2011,Deaths - All causes - Sex: Both - Age: 70+ years (Number),23946781.841865208
+106,2012,Deaths - All causes - Sex: Both - Age: 70+ years (Number),24319611.04792805
+107,2013,Deaths - All causes - Sex: Both - Age: 70+ years (Number),24602902.502078988
+108,2014,Deaths - All causes - Sex: Both - Age: 70+ years (Number),25136329.397431817
+109,2015,Deaths - All causes - Sex: Both - Age: 70+ years (Number),25893490.232813872
+110,2016,Deaths - All causes - Sex: Both - Age: 70+ years (Number),26552330.82395234
+111,2017,Deaths - All causes - Sex: Both - Age: 70+ years (Number),27209765.403298367
+112,1990,Deaths - All causes - Sex: Both - Age: 50-69 years (Number),10835045.41826722
+113,1991,Deaths - All causes - Sex: Both - Age: 50-69 years (Number),10997536.202378482
+114,1992,Deaths - All causes - Sex: Both - Age: 50-69 years (Number),11163428.522008251
+115,1993,Deaths - All causes - Sex: Both - Age: 50-69 years (Number),11394619.587594118
+116,1994,Deaths - All causes - Sex: Both - Age: 50-69 years (Number),11561078.374342095
+117,1995,Deaths - All causes - Sex: Both - Age: 50-69 years (Number),11560626.820696224
+118,1996,Deaths - All causes - Sex: Both - Age: 50-69 years (Number),11550433.071769362
+119,1997,Deaths - All causes - Sex: Both - Age: 50-69 years (Number),11603794.258072514
+120,1998,Deaths - All causes - Sex: Both - Age: 50-69 years (Number),11590584.45662508
+121,1999,Deaths - All causes - Sex: Both - Age: 50-69 years (Number),11616913.282430535
+122,2000,Deaths - All causes - Sex: Both - Age: 50-69 years (Number),11681476.812032416
+123,2001,Deaths - All causes - Sex: Both - Age: 50-69 years (Number),11771457.545903368
+124,2002,Deaths - All causes - Sex: Both - Age: 50-69 years (Number),11948900.30976218
+125,2003,Deaths - All causes - Sex: Both - Age: 50-69 years (Number),12121358.860027071
+126,2004,Deaths - All causes - Sex: Both - Age: 50-69 years (Number),12144805.725409148
+127,2005,Deaths - All causes - Sex: Both - Age: 50-69 years (Number),12211203.910575189
+128,2006,Deaths - All causes - Sex: Both - Age: 50-69 years (Number),12151931.56717236
+129,2007,Deaths - All causes - Sex: Both - Age: 50-69 years (Number),12227540.851242678
+130,2008,Deaths - All causes - Sex: Both - Age: 50-69 years (Number),12407020.121886458
+131,2009,Deaths - All causes - Sex: Both - Age: 50-69 years (Number),12467500.00051979
+132,2010,Deaths - All causes - Sex: Both - Age: 50-69 years (Number),12713654.290924458
+133,2011,Deaths - All causes - Sex: Both - Age: 50-69 years (Number),12872084.19857208
+134,2012,Deaths - All causes - Sex: Both - Age: 50-69 years (Number),13154911.974673703
+135,2013,Deaths - All causes - Sex: Both - Age: 50-69 years (Number),13477329.367069786
+136,2014,Deaths - All causes - Sex: Both - Age: 50-69 years (Number),13947470.015924187
+137,2015,Deaths - All causes - Sex: Both - Age: 50-69 years (Number),14502428.092321329
+138,2016,Deaths - All causes - Sex: Both - Age: 50-69 years (Number),14884237.445594594
+139,2017,Deaths - All causes - Sex: Both - Age: 50-69 years (Number),14998634.703540783
+140,1990,Deaths - All causes - Sex: Both - Age: 5-14 years (Number),1320668.5800183916
+141,1991,Deaths - All causes - Sex: Both - Age: 5-14 years (Number),1360630.8154676924
+142,1992,Deaths - All causes - Sex: Both - Age: 5-14 years (Number),1339851.9705247572
+143,1993,Deaths - All causes - Sex: Both - Age: 5-14 years (Number),1341331.4075031572
+144,1994,Deaths - All causes - Sex: Both - Age: 5-14 years (Number),1392302.849460482
+145,1995,Deaths - All causes - Sex: Both - Age: 5-14 years (Number),1304178.8301315173
+146,1996,Deaths - All causes - Sex: Both - Age: 5-14 years (Number),1282067.9795350835
+147,1997,Deaths - All causes - Sex: Both - Age: 5-14 years (Number),1270317.696111295
+148,1998,Deaths - All causes - Sex: Both - Age: 5-14 years (Number),1247279.287765779
+149,1999,Deaths - All causes - Sex: Both - Age: 5-14 years (Number),1221068.0062647471
+150,2000,Deaths - All causes - Sex: Both - Age: 5-14 years (Number),1187037.793160223
+151,2001,Deaths - All causes - Sex: Both - Age: 5-14 years (Number),1151410.5342881875
+152,2002,Deaths - All causes - Sex: Both - Age: 5-14 years (Number),1075229.2747454064
+153,2003,Deaths - All causes - Sex: Both - Age: 5-14 years (Number),1013790.1680591695
+154,2004,Deaths - All causes - Sex: Both - Age: 5-14 years (Number),1048991.117899805
+155,2005,Deaths - All causes - Sex: Both - Age: 5-14 years (Number),1017887.6586239748
+156,2006,Deaths - All causes - Sex: Both - Age: 5-14 years (Number),966975.6016701844
+157,2007,Deaths - All causes - Sex: Both - Age: 5-14 years (Number),936657.6166652548
+158,2008,Deaths - All causes - Sex: Both - Age: 5-14 years (Number),949579.7460784502
+159,2009,Deaths - All causes - Sex: Both - Age: 5-14 years (Number),911628.2812862664
+160,2010,Deaths - All causes - Sex: Both - Age: 5-14 years (Number),945795.9707912594
+161,2011,Deaths - All causes - Sex: Both - Age: 5-14 years (Number),889229.5474023214
+162,2012,Deaths - All causes - Sex: Both - Age: 5-14 years (Number),862999.7301001155
+163,2013,Deaths - All causes - Sex: Both - Age: 5-14 years (Number),838898.4828401721
+164,2014,Deaths - All causes - Sex: Both - Age: 5-14 years (Number),816867.2820785041
+165,2015,Deaths - All causes - Sex: Both - Age: 5-14 years (Number),775067.5269561026
+166,2016,Deaths - All causes - Sex: Both - Age: 5-14 years (Number),754468.9130594952
+167,2017,Deaths - All causes - Sex: Both - Age: 5-14 years (Number),731743.3678053044
+168,1990,Deaths - All causes - Sex: Both - Age: 15-49 years (Number),6998561.158948356
+169,1991,Deaths - All causes - Sex: Both - Age: 15-49 years (Number),7215875.776911156
+170,1992,Deaths - All causes - Sex: Both - Age: 15-49 years (Number),7409313.340420498
+171,1993,Deaths - All causes - Sex: Both - Age: 15-49 years (Number),7677472.696516561
+172,1994,Deaths - All causes - Sex: Both - Age: 15-49 years (Number),8219800.586291847
+173,1995,Deaths - All causes - Sex: Both - Age: 15-49 years (Number),8128532.27991188
+174,1996,Deaths - All causes - Sex: Both - Age: 15-49 years (Number),8229901.69836053
+175,1997,Deaths - All causes - Sex: Both - Age: 15-49 years (Number),8364786.178053417
+176,1998,Deaths - All causes - Sex: Both - Age: 15-49 years (Number),8500694.081231974
+177,1999,Deaths - All causes - Sex: Both - Age: 15-49 years (Number),8745663.355943875
+178,2000,Deaths - All causes - Sex: Both - Age: 15-49 years (Number),8820399.506463738
+179,2001,Deaths - All causes - Sex: Both - Age: 15-49 years (Number),8745273.000546947
+180,2002,Deaths - All causes - Sex: Both - Age: 15-49 years (Number),8741064.356150568
+181,2003,Deaths - All causes - Sex: Both - Age: 15-49 years (Number),8683792.03216845
+182,2004,Deaths - All causes - Sex: Both - Age: 15-49 years (Number),8785639.427152539
+183,2005,Deaths - All causes - Sex: Both - Age: 15-49 years (Number),8751136.093629185
+184,2006,Deaths - All causes - Sex: Both - Age: 15-49 years (Number),8642137.724722378
+185,2007,Deaths - All causes - Sex: Both - Age: 15-49 years (Number),8570431.378782596
+186,2008,Deaths - All causes - Sex: Both - Age: 15-49 years (Number),8676241.563067082
+187,2009,Deaths - All causes - Sex: Both - Age: 15-49 years (Number),8508622.723841084
+188,2010,Deaths - All causes - Sex: Both - Age: 15-49 years (Number),8551119.092532743
+189,2011,Deaths - All causes - Sex: Both - Age: 15-49 years (Number),8294948.793858715
+190,2012,Deaths - All causes - Sex: Both - Age: 15-49 years (Number),8112426.392085723
+191,2013,Deaths - All causes - Sex: Both - Age: 15-49 years (Number),7949361.639317189
+192,2014,Deaths - All causes - Sex: Both - Age: 15-49 years (Number),7864767.521325691
+193,2015,Deaths - All causes - Sex: Both - Age: 15-49 years (Number),7733922.246971665
+194,2016,Deaths - All causes - Sex: Both - Age: 15-49 years (Number),7685805.980730138
+195,2017,Deaths - All causes - Sex: Both - Age: 15-49 years (Number),7614024.001961451
